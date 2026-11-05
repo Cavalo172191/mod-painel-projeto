@@ -1,0 +1,6 @@
+{
+  "name": "mod-painel-projeto",
+  "description": "Painel do Projeto: o projeto do cliente ao lado do chat do Claude, com etapas do fluxo Genesis, pendências e tempo trabalhado.",
+  "owner": { "name": "Samuel Fernandes" },
+  "plugins": [{ "name": "painel-projeto", "source": "./" }]
+}

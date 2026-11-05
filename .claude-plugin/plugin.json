@@ -1,0 +1,7 @@
+{
+  "name": "painel-projeto",
+  "version": "0.1.0",
+  "description": "Painel ao lado do chat com o projeto do cliente aberto: em que etapa do fluxo Genesis ele está (plano, construção, backup, publicado), o que falta salvar ou publicar, pendências, tempo trabalhado e botões que disparam o próximo passo. Abre com /painel.",
+  "author": { "name": "Samuel Fernandes" },
+  "types": "./types/index.d.ts"
+}
